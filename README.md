@@ -1,8 +1,8 @@
 # 🚀 About Me:
 - 🎓 I am studying at the **Polish-Japanese Academy of Information Technology**
-- 🧠 Passionate about **Data Science** and **Machine Learning**
+- 🧠 Passionate about **Machine Learning** and **Software Engineering**
 - 💼 Actively seeking an **internship** or a **part-time job**
-- 🏆 My goal is to become a highly skilled **data analyst**
+- 🏆 My goal is to become a highly skilled **developer**
 
 ---
 
