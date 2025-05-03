@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Contact Me:
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/teklaos)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/tekla0s)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/teklaos)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bogdan.tyta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230057B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/teklaos/)
