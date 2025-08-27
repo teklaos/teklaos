@@ -1,10 +1,10 @@
 ## Summary
-- **Computer Science Student** at **Polish-Japanese Academy of Information Technology**
-- Passionate about **Backend Software Engineering**
-- Actively seeking an **Internship** or a **Part-Time Job**
+- **Computer science student** at **Polish-Japanese Academy of Information Technology**
+- Passionate about **backend software engineering**
+- Actively seeking an **internship** or a **part-time job**
 
 ## Contact Info
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/tekla0s)
+[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/teklaos)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bogdan.tyta@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230057B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/teklaos/)
 
