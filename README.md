@@ -1,8 +1,8 @@
 ## Summary
 
 - **Computer Science** student at **Polish-Japanese Academy of Information Technology**
-- **Full-stack** Software Engineer
-- Seeking a **Full-time Job**
+- **Full-stack** software engineer
+- Seeking a **full-time** job
 
 ## Tech Stack
 
