@@ -6,4 +6,4 @@
 
 ## Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=java,cs,cpp,python,js,ts,spring,hibernate,dotnet,nodejs,express,react,nextjs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,spring,hibernate,cs,dotnet,cpp,python,js,ts,nodejs,express,react,vite,nextjs)](https://skillicons.dev)
